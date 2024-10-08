@@ -7,6 +7,7 @@ Congestion Management: Roads are processed based on congestion levels using a pr
 Project Structure:
 
 ## real-time-traffic-flow-analysis/
+![Diagram](Flow.png)
 │
 ├── src/
 │   ├── traffic_graph.py                # Code for graph-related functionality (intersections and roads)
@@ -22,6 +23,7 @@ Project Structure:
 ├── README.md                           # Project documentation
 ├── requirements.txt                    # List of dependencies
 └── .gitignore                          # Files to ignore in version control
+
 
 
 ## How to Run the Project:
