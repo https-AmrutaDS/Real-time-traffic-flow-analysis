@@ -29,12 +29,7 @@ To get started with the project, follow these instructions to set up your develo
 - **Terminal/Command Line Interface**: You will need to use a terminal or command prompt to compile and run the program.
 
 ### Installation
-1. **Clone the Repository** (or download the source code):
-   ```bash
-   git clone https://github.com/yourusername/TrafficFlowAnalysis.git
-   cd TrafficFlowAnalysis
-
-2. **Compile the Program**: In your terminal, navigate to the directory containing the traffic_flow_analysis.c file and run:
+1. **Compile the Program**: In your terminal, navigate to the directory containing the traffic_flow_analysis.c file and run:
 ```bash
 gcc traffic_flow_analysis.c -o traffic_flow_analysis
 ```
