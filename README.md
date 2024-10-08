@@ -8,23 +8,6 @@ Project Structure:
 
 ## real-time-traffic-flow-analysis/
 ![Diagram](Flow.png)
-│
-├── src/
-│   ├── traffic_graph.py                # Code for graph-related functionality (intersections and roads)
-│   ├── traffic_congestion.py           # Code for congestion management using priority queues
-│   └── main.py                         # Main script to run the traffic flow analysis
-│
-├── data/
-│   └── traffic_data.csv                # Sample traffic data (optional)
-│
-├── tests/
-│   └── test_traffic_graph.py           # Unit tests for the traffic graph implementation
-│
-├── README.md                           # Project documentation
-├── requirements.txt                    # List of dependencies
-└── .gitignore                          # Files to ignore in version control
-
-
 
 ## How to Run the Project:
 Clone the Repository: Open your terminal (command prompt) and run the following command to clone the repository:
